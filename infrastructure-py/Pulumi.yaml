@@ -1,0 +1,3 @@
+name: whobought-azure
+runtime: python
+description: Azure infrastructure for WhoBought app 
